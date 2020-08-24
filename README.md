@@ -50,3 +50,7 @@ PHP初学者的学习线路：
 
 运行效果：<br/>
 ![在这里插入图片描述](https://github.com/ChenYikunReal/php_training/blob/master/images/php-run-scripts.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+
+
+# 暂停学习
+尽管还挺感兴趣的，但时间比较紧张，只得咕咕咕，以后有时间再学吧！
