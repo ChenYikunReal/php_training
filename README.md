@@ -4,11 +4,14 @@
 ![在这里插入图片描述](https://github.com/ChenYikunReal/php_training/blob/master/images/php-background.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
 
 ## 开发相关软件下载
-- [PHP安装说明](https://www.php.net/manual/en/install.php)
+- [PHP安装官方说明](https://www.php.net/manual/en/install.php)
+- [PHP下载地址](https://windows.php.net/download)
+- [PHP安装方法](https://www.jianshu.com/p/4cad256720dc)
 - [PhpStorm下载地址](https://www.jetbrains.com/phpstorm/)
 - MySQL
 - [WampServer官网](https://www.wampserver.com)
-- [WampServer下载地址](https://sourceforge.net/projects/wampserver/files/)
+- [WampServer官方下载地址](https://sourceforge.net/projects/wampserver/files/)
+- [WampServer国内下载地址](https://www.cr173.com/soft/259379.html)
 
 下载官网注意：
 ![在这里插入图片描述](https://github.com/ChenYikunReal/php_training/blob/master/images/wampserver-download.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
@@ -36,3 +39,14 @@ PHP初学者的学习线路：
     - 多借鉴别人成功的代码，绝对是有益无害，所以要多看那些经过千锤百炼凝出来的经典代码，是进步的最好方法。另外，要强调的是，学习一项技术过程中可能会遇到困难，可能会迷茫，你也许学了一半的PHP，又开始打C#的主意，或者有人说Java很好，这个时候你绝对不能动摇，要坚持到底，彻底学会。祝你顺利学成PHP，开发自己想要的网站。 
 
 [PhpStorm开发PHP入门](https://www.cnblogs.com/jiangfeilong/p/11141065.html)
+
+## PHP程序结构
+详见[hello.php](https://github.com/ChenYikunReal/php_training/blob/master/src/hello.php)
+
+## PhpStorm配置并运行PHP
+如果你是自己下载的PHP，那一般将其设置为解释器时一般会说却`php.ini`。由于本人了解不深，所以不明白为什么。解决方法是，找到WampServer下的php.exe即可，版本自己选就行。这个感觉挺像使用Anaconda附带的python.exe。
+
+至于说运行，选用`Scripts`运行即可，有Node学习js的感觉，不需要非得打开Browser的。
+
+运行效果：<br/>
+![在这里插入图片描述](https://github.com/ChenYikunReal/php_training/blob/master/images/php-run-scripts.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
