@@ -3,7 +3,7 @@
 [PHP简介](https://www.runoob.com/php/php-intro.html) <br/><br/>
 ![在这里插入图片描述](https://github.com/ChenYikunReal/php_training/blob/master/images/php-background.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
 
-## 开发相关软件下载
+## PHP开发相关软件下载
 - [PHP安装官方说明](https://www.php.net/manual/en/install.php)
 - [PHP下载地址](https://windows.php.net/download)
 - [PHP安装方法](https://www.jianshu.com/p/4cad256720dc)
