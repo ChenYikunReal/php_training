@@ -52,5 +52,59 @@ PHP初学者的学习线路：
 ![在这里插入图片描述](https://github.com/ChenYikunReal/php_training/blob/master/images/php-run-scripts.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
 
 
-# 暂停学习
-尽管还挺感兴趣的，但时间比较紧张，只得咕咕咕，以后有时间再学吧！
+## PHP等号
+php等号和js差不多，有`==`、`===`两种，双等号是只看值的，三等号是值和类型都看的。
+
+
+## PHP类型比较说明
+![在这里插入图片描述](https://github.com/ChenYikunReal/php_training/blob/master/images/php-type1.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+
+
+![在这里插入图片描述](https://github.com/ChenYikunReal/php_training/blob/master/images/php-type2.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+
+
+## PHP字符串函数
+![在这里插入图片描述](https://github.com/ChenYikunReal/php_training/blob/master/images/php-string-function.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+
+## PHP选择语句
+注意常用格式：`if...elseif...else...`
+
+## PHP数组函数
+![在这里插入图片描述](https://github.com/ChenYikunReal/php_training/blob/master/images/php-array-function.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+
+<br/>数组排序：
+- `sort()` : 对数组进行升序排列
+- `rsort()` : 对数组进行降序排列
+- `asort()` : 根据关联数组的值，对数组进行升序排列
+- `ksort()` : 根据关联数组的键，对数组进行升序排列
+- `arsort()` : 根据关联数组的值，对数组进行降序排列
+- `krsort()` : 根据关联数组的键，对数组进行降序排列
+
+## PHP超级全局变量
+- `$GLOBALS`
+- `$_SERVER`
+- `$_REQUEST`
+- `$_POST`
+- `$_GET`
+- `$_FILES`
+- `$_ENV`
+- `$_COOKIE`
+- `$_SESSION`
+
+## PHP小测验
+- [PHP小测验](https://www.runoob.com/quiz/php-quiz.html)
+
+## PHP时间相关
+### PHP时间格式
+![在这里插入图片描述](https://github.com/ChenYikunReal/php_training/blob/master/images/php-date-format.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+
+### PHP时间函数
+![在这里插入图片描述](https://github.com/ChenYikunReal/php_training/blob/master/images/php-datetime-function.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+
+### PHP时间常量
+![在这里插入图片描述](https://github.com/ChenYikunReal/php_training/blob/master/images/php-datetime-const.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+
+## PHP的JSON函数
+- `json_encode` : 对变量进行JSON编码
+- `json_decode` : 对JSON格式的字符串进行解码，转换为PHP变量
+- `json_last_error` : 返回最后发生的错误

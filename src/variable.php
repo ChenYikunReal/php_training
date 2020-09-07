@@ -1,4 +1,5 @@
 <?php
+
 $x = 1;
 // 换行符 => PHP_EOL
 echo $x, PHP_EOL;
