@@ -1,7 +1,7 @@
 # PHP入门训练
 
 [PHP简介](https://www.runoob.com/php/php-intro.html) <br/><br/>
-![在这里插入图片描述](https://github.com/ChenYikunReal/php_training/blob/master/images/php-background.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/php-background.jpge_16,color_FFFFFF,t_70)
 
 ## PHP开发相关软件下载
 - [PHP安装官方说明](https://www.php.net/manual/en/install.php)
@@ -14,7 +14,7 @@
 - [WampServer国内下载地址](https://www.cr173.com/soft/259379.html)
 
 下载官网注意：
-![在这里插入图片描述](https://github.com/ChenYikunReal/php_training/blob/master/images/wampserver-download.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/wampserver-download.PNGe_16,color_FFFFFF,t_70)
 
 ## 适用于PHP初学者的学习线路和建议
 原文链接：[适用于PHP初学者的学习线路和建议](https://www.runoob.com/w3cnote/php-learning-recommend.html)
@@ -41,7 +41,7 @@ PHP初学者的学习线路：
 [PhpStorm开发PHP入门](https://www.cnblogs.com/jiangfeilong/p/11141065.html)
 
 ## PHP程序结构
-详见[hello.php](https://github.com/ChenYikunReal/php_training/blob/master/src/hello.php)
+详见[hello.php](src/hello.php)
 
 ## PhpStorm配置并运行PHP
 如果你是自己下载的PHP，那一般将其设置为解释器时一般会说却`php.ini`。由于本人了解不深，所以不明白为什么。解决方法是，找到WampServer下的php.exe即可，版本自己选就行。这个感觉挺像使用Anaconda附带的python.exe。
@@ -49,7 +49,7 @@ PHP初学者的学习线路：
 至于说运行，选用`Scripts`运行即可，有Node学习js的感觉，不需要非得打开Browser的。
 
 运行效果：<br/>
-![在这里插入图片描述](https://github.com/ChenYikunReal/php_training/blob/master/images/php-run-scripts.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/php-run-scripts.pnge_16,color_FFFFFF,t_70)
 
 
 ## PHP等号
@@ -57,20 +57,20 @@ php等号和js差不多，有`==`、`===`两种，双等号是只看值的，三
 
 
 ## PHP类型比较说明
-![在这里插入图片描述](https://github.com/ChenYikunReal/php_training/blob/master/images/php-type1.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/php-type1.pnge_16,color_FFFFFF,t_70)
 
 
-![在这里插入图片描述](https://github.com/ChenYikunReal/php_training/blob/master/images/php-type2.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/php-type2.pnge_16,color_FFFFFF,t_70)
 
 
 ## PHP字符串函数
-![在这里插入图片描述](https://github.com/ChenYikunReal/php_training/blob/master/images/php-string-function.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/php-string-function.pnge_16,color_FFFFFF,t_70)
 
 ## PHP选择语句
 注意常用格式：`if...elseif...else...`
 
 ## PHP数组函数
-![在这里插入图片描述](https://github.com/ChenYikunReal/php_training/blob/master/images/php-array-function.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/php-array-function.pnge_16,color_FFFFFF,t_70)
 
 <br/>数组排序：
 - `sort()` : 对数组进行升序排列
@@ -96,13 +96,13 @@ php等号和js差不多，有`==`、`===`两种，双等号是只看值的，三
 
 ## PHP时间相关
 ### PHP时间格式
-![在这里插入图片描述](https://github.com/ChenYikunReal/php_training/blob/master/images/php-date-format.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/php-date-format.pnge_16,color_FFFFFF,t_70)
 
 ### PHP时间函数
-![在这里插入图片描述](https://github.com/ChenYikunReal/php_training/blob/master/images/php-datetime-function.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/php-datetime-function.pnge_16,color_FFFFFF,t_70)
 
 ### PHP时间常量
-![在这里插入图片描述](https://github.com/ChenYikunReal/php_training/blob/master/images/php-datetime-const.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](images/php-datetime-const.pnge_16,color_FFFFFF,t_70)
 
 ## PHP的JSON函数
 - `json_encode` : 对变量进行JSON编码
