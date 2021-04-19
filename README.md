@@ -1,7 +1,7 @@
 # PHP入门训练
 
 [PHP简介](https://www.runoob.com/php/php-intro.html) <br/><br/>
-![](images/php-background.jpge_16,color_FFFFFF,t_70)
+![](images/php-background.jpg)
 
 ## PHP开发相关软件下载
 - [PHP安装官方说明](https://www.php.net/manual/en/install.php)
@@ -14,7 +14,7 @@
 - [WampServer国内下载地址](https://www.cr173.com/soft/259379.html)
 
 下载官网注意：
-![](images/wampserver-download.PNGe_16,color_FFFFFF,t_70)
+![](images/wampserver-download.PNG)
 
 ## 适用于PHP初学者的学习线路和建议
 原文链接：[适用于PHP初学者的学习线路和建议](https://www.runoob.com/w3cnote/php-learning-recommend.html)
@@ -49,7 +49,7 @@ PHP初学者的学习线路：
 至于说运行，选用`Scripts`运行即可，有Node学习js的感觉，不需要非得打开Browser的。
 
 运行效果：<br/>
-![](images/php-run-scripts.pnge_16,color_FFFFFF,t_70)
+![](images/php-run-scripts.png)
 
 
 ## PHP等号
@@ -57,20 +57,20 @@ php等号和js差不多，有`==`、`===`两种，双等号是只看值的，三
 
 
 ## PHP类型比较说明
-![](images/php-type1.pnge_16,color_FFFFFF,t_70)
+![](images/php-type1.png)
 
 
-![](images/php-type2.pnge_16,color_FFFFFF,t_70)
+![](images/php-type2.png)
 
 
 ## PHP字符串函数
-![](images/php-string-function.pnge_16,color_FFFFFF,t_70)
+![](images/php-string-function.png)
 
 ## PHP选择语句
 注意常用格式：`if...elseif...else...`
 
 ## PHP数组函数
-![](images/php-array-function.pnge_16,color_FFFFFF,t_70)
+![](images/php-array-function.png)
 
 <br/>数组排序：
 - `sort()` : 对数组进行升序排列
@@ -96,13 +96,13 @@ php等号和js差不多，有`==`、`===`两种，双等号是只看值的，三
 
 ## PHP时间相关
 ### PHP时间格式
-![](images/php-date-format.pnge_16,color_FFFFFF,t_70)
+![](images/php-date-format.png)
 
 ### PHP时间函数
-![](images/php-datetime-function.pnge_16,color_FFFFFF,t_70)
+![](images/php-datetime-function.png)
 
 ### PHP时间常量
-![](images/php-datetime-const.pnge_16,color_FFFFFF,t_70)
+![](images/php-datetime-const.png)
 
 ## PHP的JSON函数
 - `json_encode` : 对变量进行JSON编码
